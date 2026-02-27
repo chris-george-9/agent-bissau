@@ -74,7 +74,7 @@ export const Profile: React.FC = () => {
       </div>
 
       <div className="text-center text-xs text-gray-400">
-        Bissau Express Agent App v1.0.2
+        Nha Kinhon Agent App v1.0.2
       </div>
     </div>
   );

@@ -1,6 +1,6 @@
 {
-  "name": "Bissau Express Agent",
-  "description": "Mobile delivery application for Bissau Express couriers to manage assignments, track deliveries, and submit proof of delivery.",
+  "name": "Nha Kinhon",
+  "description": "Mobile delivery application for Nha Kinhon couriers to manage assignments, track deliveries, and submit proof of delivery.",
   "requestFramePermissions": [
     "camera",
     "geolocation"
